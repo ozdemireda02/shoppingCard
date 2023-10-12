@@ -2,7 +2,7 @@
 
 API'den alınan veriler ile tasarlanan online alışveriş sitesi
 
-<h2> Kullanılan Teknolojiler </>
+<h2> Kullanılan Teknolojiler </h2>
 
 Html,Css ve Javascript kullanılarak geliştirilmiştir.Bootstrap kütüphanesinden de faydalanılmıştır.
 
